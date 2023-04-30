@@ -56,7 +56,7 @@ http://localhost:8080?claim=eyJwZXJtaXQiOnsicGVybWl0dGVkIjp7InRva2VuIjoiMHgxMWZF
 
 ##### CLOUDFLARE_ASSET_DIRECTORY =
 
-    static #
+    static ##
 
 ##### CLOUDFLARE_PROJECT_NAME =
 
